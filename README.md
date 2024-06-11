@@ -1,4 +1,4 @@
-- 👋 Hi, I’m farah!!
+- 👋 Hi, I’m tadashi(code-name hehe)!!
 - 👀 I’m interested in game dev, 3d modelling and printing, and coding.
 - 🌱 I’m currently learning c! and am planning on learning GameMaker once i get free time
 - 💞️ Although i have been at uni for 2 years, I still feel like beginner in coding, so i would love to get some experience in easy collaborative projects
